@@ -12,7 +12,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
-Go to this [Website](https://note-taker20.herokuapp.com/notes)
+Go to this [Website](https://note-taker20.herokuapp.com/notes) <br>
 The website provided is the link to the heroku page where the application was deployed.
 
 ## Usage
